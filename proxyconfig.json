@@ -1,0 +1,7 @@
+{
+    "/src/app/product": {
+        "target": "http://192.168.1.13:5000/user/1",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
